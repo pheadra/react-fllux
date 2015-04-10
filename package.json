@@ -1,0 +1,29 @@
+{
+  "name": "react-flux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "es6-promise": "^2.0.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-browserify": "^0.5.1",
+    "object-assign": "^2.0.0",
+    "reactify": "^1.1.0",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pheadra/react-fllux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pheadra/react-fllux/issues"
+  },
+  "homepage": "https://github.com/pheadra/react-fllux"
+}
